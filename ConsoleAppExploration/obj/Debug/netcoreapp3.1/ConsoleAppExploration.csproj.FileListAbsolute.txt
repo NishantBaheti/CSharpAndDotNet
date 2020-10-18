@@ -1,0 +1,13 @@
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.exe
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.deps.json
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.runtimeconfig.json
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.runtimeconfig.dev.json
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.dll
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\bin\Debug\netcoreapp3.1\ConsoleAppExploration.pdb
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.csprojAssemblyReference.cache
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.AssemblyInfoInputs.cache
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.AssemblyInfo.cs
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.csproj.CoreCompileInputs.cache
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.dll
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.pdb
+C:\Users\Nishant Maheshwari\Desktop\CSharpAndDotNet\ConsoleAppExploration\obj\Debug\netcoreapp3.1\ConsoleAppExploration.genruntimeconfig.cache
